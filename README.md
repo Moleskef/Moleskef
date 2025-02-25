@@ -13,4 +13,5 @@
 
 - 💻 HTML | CSS | JavaScript
 - 🗄️ MySQL | MongoDB
+- 🎨🖥️ Photoshop | Illustrator | Corel Draw 
 
