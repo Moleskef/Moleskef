@@ -9,3 +9,8 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... Design is Life
 
+<h3>🛠️ Tech Stack </h3>
+
+- 💻 HTML | CSS | JavaScript
+- 🗄️ MySQL | MongoDB
+
