@@ -1,9 +1,6 @@
 ### Hi there!, I'm Kayode👋
 
-<!--
-**Moleskef/Moleskef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3> 👨‍💻 About Me</h3>
 
 - 🔭 I’m currently working on ...Mobile Payment App
 - 🌱 I’m currently learning ... Kotlin, Flutter and React Js
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Coding is Life
--->
+
